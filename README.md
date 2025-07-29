@@ -134,4 +134,4 @@ For citing you should use:
 
 Sergii Kavun. (2025). s-kav/s3_s4_activation_function: Version 1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.16459162
 
-[![DOI](https://zenodo.org/badge/1001952407.svg)](https://doi.org/10.5281/zenodo.16459162)
+[![DOI](https://zenodo.org/badge/1026823593.svg)](https://doi.org/10.5281/zenodo.16459162)
