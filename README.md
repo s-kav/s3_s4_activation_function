@@ -127,3 +127,11 @@ Add trainable parameters to adapt the transition point and scaling dynamically.
 ## 8. Conclusion
 
 The S3 activation function represents a novel hybrid approach, combining the strengths of sigmoid and softsign. However, the derivative discontinuity at the transition point imposes serious limitations for practical use. S3 may be valuable in experimental settings but requires careful handling in production environments.
+
+# References
+
+For citing you should use:
+
+Sergii Kavun. (2025). s-kav/s3_s4_activation_function: Version 1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.16459162
+
+[![DOI](https://zenodo.org/badge/1001952407.svg)](https://doi.org/10.5281/zenodo.16459162)
