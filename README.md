@@ -138,6 +138,11 @@ Sergii Kavun. (2025). s-kav/s3_s4_activation_function: Version 1.0 (v1.0). Zenod
 [![cs.LG](https://img.shields.io/badge/cs.LG-Machine%20Learning-blue)](https://arxiv.org/list/cs.LG/recent)
 [![DOI](https://zenodo.org/badge/1026823593.svg)](https://doi.org/10.5281/zenodo.16459162)
 
+**Hybrid activation functions for deep neural networks: S3 and S4 -- a novel approach to gradient flow optimization**  
+*Sergii Kavun*  
+arXiv preprint arXiv:2507.22090, 2025  
+[📄 Paper](https://arxiv.org/abs/2507.22090)
+
 **BibTeX formatted citation**
 
 <details>
