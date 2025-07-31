@@ -134,4 +134,24 @@ For citing you should use:
 
 Sergii Kavun. (2025). s-kav/s3_s4_activation_function: Version 1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.16459162
 
+[![arXiv](https://img.shields.io/badge/arXiv-2507.22090-b31b1b.svg)](https://arxiv.org/abs/2507.22090)
+[![cs.LG](https://img.shields.io/badge/cs.LG-Machine%20Learning-blue)](https://arxiv.org/list/cs.LG/recent)
 [![DOI](https://zenodo.org/badge/1026823593.svg)](https://doi.org/10.5281/zenodo.16459162)
+
+**BibTeX formatted citation**
+
+<details>
+<summary>📋 Click to expand BibTeX citation</summary>
+<br>
+
+```bibtex
+@misc{kavun2025hybridactivationfunctionsdeep,
+      title={Hybrid activation functions for deep neural networks: S3 and S4 -- a novel approach to gradient flow optimization}, 
+      author={Sergii Kavun},
+      year={2025},
+      eprint={2507.22090},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.22090}, 
+}
+```
