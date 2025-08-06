@@ -273,7 +273,7 @@ from matplotlib import pyplot as plt
 import seaborn as sns
 figsize = (12, 1.2 * len(df['Activation'].unique()))
 plt.figure(figsize=figsize)
-sns.violinplot(df, x='% Dead Neurons (Layer 1)', y='Activation', inner='stick', palette='Dark2')
+sns.violinplot(df, x='% Dead Neurons (Layer 1)', y='Activation', inner='stick', color='steelblue')
 sns.despine(top=True, right=True, bottom=True, left=True)
 
 ###################################################################################
