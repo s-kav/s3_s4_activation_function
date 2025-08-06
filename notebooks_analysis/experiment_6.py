@@ -13,6 +13,7 @@ Supplementary Figure 1: S3 and S4 Activation Function Comparison
 import matplotlib.pyplot as plt
 import numpy as np
 
+matplotlib.rcParams['figure.max_open_warning'] = 50
 # Input range
 x = np.linspace(-10, 10, 500)
 
@@ -73,7 +74,7 @@ axs[1].grid(True, linestyle='--', alpha=0.6)
 
 plt.tight_layout()
 plt.show()
-
+plt.close(fig)
 ###################################################################################
 
 '''
@@ -119,7 +120,7 @@ ax1.legend(lines1 + lines2, labels1 + labels2, loc='upper center', ncol=3)
 plt.grid(True, linestyle='--', alpha=0.5)
 plt.tight_layout()
 plt.show()
-
+plt.close(fig)
 ###################################################################################
 
 '''
@@ -177,7 +178,7 @@ axs[1].grid(True, linestyle='--', alpha=0.6)
 fig.suptitle('Figure 3: Convergence Curves', fontsize=14)
 plt.tight_layout()
 plt.show()
-
+plt.close(fig)
 ###################################################################################
 
 '''
@@ -275,7 +276,7 @@ figsize = (12, 1.2 * len(df['Activation'].unique()))
 plt.figure(figsize=figsize)
 sns.violinplot(df, x='% Dead Neurons (Layer 1)', y='Activation', inner='stick', color='steelblue')
 sns.despine(top=True, right=True, bottom=True, left=True)
-
+plt.close()
 ###################################################################################
 
 
