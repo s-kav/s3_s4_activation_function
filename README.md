@@ -131,7 +131,7 @@ an array of 10 million 64-bit floats.
 | **Baseline (NumPy)** | 1000  | 369.186 sec    | 1.00x   |
 | **Numba CUDA**       | 1000  | 57.264 sec     | 6.45x   |
 
-This ~5-6x speedup demonstrates the effectiveness of the CUDA-accelerated backend for processing
+This ~5.5-6.5x speedup demonstrates the effectiveness of the CUDA-accelerated backend for processing
 large volumes of data. For detailed usage and to run the benchmark yourself,
 please see the [experiment_7.py](notebooks_analysis/experiment_7.py) script.
 
