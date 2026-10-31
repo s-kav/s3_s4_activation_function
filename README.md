@@ -305,6 +305,10 @@ Sergii Kavun. (2025). s-kav/s3_s4_activation_function: Version 1.0 (v1.0). Zenod
 arXiv preprint arXiv:2507.22090, 2025  
 [📄 Paper](https://arxiv.org/abs/2507.22090)
 
+Kavun, S. S3 and S4: Novel hybrid activation functions for deep neural networks, 2026 Workshop on Cybersecurity Providing in Information and Telecommunication Systems, CPITS 2026, Kyiv, Ukraine, 28 February 2026 - 28 February, 2026, pp. 80-97, CEUR-WS Vol. 4271 (URN: urn:nbn:de: 0074-4271-x, EID: 2-s2.0-105052304300) 
+
+[![CEUR-WS](https://shields.io+)](https://ceur-ws.org/Vol-4271/paper6.pdf)
+
 **BibTeX formatted citation**
 
 <details>
@@ -322,3 +326,4 @@ arXiv preprint arXiv:2507.22090, 2025
       url={https://arxiv.org/abs/2507.22090}, 
 }
 ```
+
